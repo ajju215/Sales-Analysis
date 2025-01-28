@@ -21,3 +21,9 @@ This project analyzes sales data to extract meaningful insights, trends, and pat
 - **Jupyter Notebook**: For coding and visual output.
 - **NumPy**: For numerical computations.
 - **Excel/CSV**: Input data files.
+
+##Conclusion
+-We can see that most of the buyers are females and even the purchasing power of females are greater than men.
+-we can see that most of the orders & total sales/amount are from Uttar Pradesh, Maharashtra and Karnataka respectively.
+-We can see that most of the buyers are of age group between 26-35 yrs female.
+-We can see that most of the buyers are married (women) and they have high purchasing power.
